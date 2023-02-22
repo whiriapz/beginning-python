@@ -9,3 +9,16 @@ and will output:
 the output should have descriptive text to explain the amount shown.
 
 """
+
+cpm = int(input("how much is your cloth per m? "))
+m_required = int(input("how many meters do you need? "))
+
+cost_of_cloth = m_required + m_required
+
+cost_labor = m_required * 6.50
+
+total_cost = cost_labor + cost_of_cloth + 45
+
+print("cost of cloth", cost_of_cloth)
+print("cost of labor", cost_labor)
+print("total cost", total_cost)
