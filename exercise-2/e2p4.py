@@ -12,3 +12,5 @@ print("initial price $", total )
 print("discount: $", round (discount, 2))
 print("final price: $", round (final, 2))
 
+
+# Good work!

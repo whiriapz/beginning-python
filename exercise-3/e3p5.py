@@ -17,3 +17,5 @@ if s1 + s2 - s3 > 0 and s1 + s3 - s2 > 0 and s2 + s3 - s1 > 0:
     print("the perimeter of ths triangle is ", s1 + s2 + s3)
 else:
     print("error invalid triangle")
+
+# Good work!

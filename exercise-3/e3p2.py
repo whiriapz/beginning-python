@@ -9,3 +9,5 @@ if age >= 18:
     print("you are old ehnough to vote")
 else:
     print("you are not old enough to vote")
+
+# Good work!

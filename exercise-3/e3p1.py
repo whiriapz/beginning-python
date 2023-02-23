@@ -10,3 +10,5 @@ if video >= 10:
 else:
     total = video * 2
     print("total price $", total)
+
+# Good work!

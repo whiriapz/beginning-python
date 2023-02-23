@@ -22,3 +22,5 @@ total_cost = cost_labor + cost_of_cloth + 45
 print("cost of cloth", cost_of_cloth)
 print("cost of labor", cost_labor)
 print("total cost", total_cost)
+
+# Not quite, consider the cost of cloth...
