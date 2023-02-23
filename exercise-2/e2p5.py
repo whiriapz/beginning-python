@@ -10,3 +10,5 @@ total = (chairs * 89) + (tables * 148)
 print(" cost of chairs is $",chairs * 89)
 print("cost of desks is $",tables * 148)
 print("total cost is $",total)
+
+# Good work!

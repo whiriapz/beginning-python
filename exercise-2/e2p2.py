@@ -9,3 +9,5 @@ total = parts + cost_travel + cost_time
 print("cost of travel", cost_travel)
 print("cost of labor", cost_time)
 print("total cost", total)
+
+# Good work!
