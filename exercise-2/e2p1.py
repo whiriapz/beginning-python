@@ -23,4 +23,4 @@ print("cost of cloth", cost_of_cloth)
 print("cost of labor", cost_labor)
 print("total cost", total_cost)
 
-# Good work!
+# Not quite, consider the cost of cloth...
